@@ -1,0 +1,2 @@
+// create .env file & put the below variable.
+CHAT_ENGINE_PRIVATE_KEY= //get chat engin io private key

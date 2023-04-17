@@ -1,0 +1,4 @@
+// setup .env file with below variables
+
+// VITE_APP_API_SERVER_URL=http://localhost:3001/
+// VITE_APP_CHAT_ENGINE_PROJECT_ID= //get chat engin project id
