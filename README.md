@@ -10,5 +10,25 @@ A Simple chat application using built with NodeJs as backend api & ReactJs as fr
 
 ### Backend:
 
+To run the backend service. First install all the dependencies and then start the application. 
+
+```
+npm install
+```
+and then:
+```
+npm run start
+```
+
 ### Frontend:
+
+To run the frontend. First install the dependencies and then start the application. This ReactJs built with Vite.
+
+```
+npm install
+```
+and then:
+```
+npm run dev
+```
 
